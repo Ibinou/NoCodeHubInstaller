@@ -2,15 +2,15 @@ What's new?
 
 •Version 1.0
 
-Français:
-Modifications de quelques éléments de l'UI:
+//Français:
 
--Ajout de plus d'ombres sur les rectangles de l'interface 
+-Ajout de 6 application (23 disponibles)
 -Modifications des catégories "récemment ajouté" et "application de la semaine"
--Ajout d'une catégorie "jeux"
+-Ajout d'une catégorie "jeux" et "outils"
 -Debug de plusieurs éléments de l'UI
 
-English
+//English
+
 Changes to some elements of the UI:
 
 -Add more shadows to the rectangles of the interface
@@ -19,4 +19,4 @@ Changes to some elements of the UI:
 
 -Addition of a "games" category
 
--Debug of several elements of the UI
+--Debug of several elements of the UI
