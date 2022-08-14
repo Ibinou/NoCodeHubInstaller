@@ -38,7 +38,7 @@
     <key>PayloadOrganization</key>
     <string>@Ibatech1</string>
     <key>PayloadRemovalDisallowed</key>
-    <true/>
+    <false/>
     <key>PayloadType</key>
     <string>Configuration</string>
     <key>PayloadUUID</key>
