@@ -1,22 +1,17 @@
 What's new?
 
-•Version 1.0
+•Version 1.1
+
 
 //Français:
 
--Ajout de 6 application (23 disponibles)
--Modifications des catégories "récemment ajouté" et "application de la semaine"
--Ajout d'une catégorie "jeux" et "outils"
+
 -Debug de plusieurs éléments de l'UI
+-Création d'une version anglaise complémentaire de celle française 
 
-//English
 
-Changes to some elements of the UI:
+//English:
 
--Add more shadows to the rectangles of the interface
-
--Changes to the "recently added" and "application of the week" categories
-
--Addition of a "games" category
 
 -Debug of several elements of the UI
+-Creation of an English version complementary to the French version
