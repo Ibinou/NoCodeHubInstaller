@@ -1,6 +1,6 @@
 What's new?
 
-•Version 2.1
+•Version 2.2
 
 
 //Français:
@@ -8,10 +8,11 @@ What's new?
 === Interface utilisateur
 
 -Debug de plusieurs éléments de l'UI
+-Traduction des éléments non-traduits
 
 === Applications
 
--6 applications ajoutés
+-1 application ajoutée (iTorrent)
 
 
 //English:
@@ -19,7 +20,8 @@ What's new?
 === UI
 
 -Debug several UI elements
+-Translation of untranslated elements
 
 === Apps
 
--6 apps added
+-1 app added (iTorrent)
