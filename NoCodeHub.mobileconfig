@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>PayloadContent</key>
+    <array>
+      <dict>
+        <key>PayloadType</key>
+        <string>com.apple.webClip.managed</string>
+        <key>PayloadIdentifier</key>
+        <string>Ibatech1.webclip.7e232738-ebf8-420a-8bd3-6f9e1f5ab218</string>
+        <key>PayloadUUID</key>
+        <string>7e232738-ebf8-420a-8bd3-6f9e1f5ab218</string>
+        <key>Label</key>
+        <string>NoCodeHub</string>
+        <key>PayloadDescription</key>
+        <string>Payload created with iConfig</string>
+        <key>PayloadVersion</key>
+        <integer>1</integer>
+        <key>Precomposed</key>
+        <false/>
+        <key>IsRemovable</key>
+        <true/>
+        <key>URL</key>
+        <string>https://previewer.adalo.com/58956807-50cb-4720-8937-08b7071b6f8d?target=0wde08en5xuoc2h8rqcetn1ox&amp;params=%7B%7D</string>
+        <key>FullScreen</key>
+        <true/>
+        <key>Icon</key>
+        <data>/9j/4AAQSkZJRgABAQEASABIAAD/2wCEAAUGBgcJBwoLCwoNDg0ODRMSEBASEx0VFhUWFR0rGyAbGyAbKyYuJiMmLiZENjAwNkRPQj9CT19VVV94cnicnNIBBQYGBwkHCgsLCg0ODQ4NExIQEBITHRUWFRYVHSsbIBsbIBsrJi4mIyYuJkQ2MDA2RE9CP0JPX1VVX3hyeJyc0v/CABEIAMAAwAMBIgACEQEDEQH/xAA2AAACAgMBAQEAAAAAAAAAAAADBAAHBQYIAgEJAQACAgMBAAAAAAAAAAAAAAACAwUGAAQHAf/aAAwDAQACEAMQAAAAzAmxcZ7aqFsROUG0I2qiaETVRNCNyomhE1UTQjaqJoZOUE2I2rz34JkkmeySZlwiaFDUpUTQyaoJsRuUE2EmqjaEbVBtCNqomhE5UTQiaqJoRtVE0I3Lz34Jkkme3YJoUHRFRNCNqomhE5UTQjaqJoRNVE0I3KibETVBNiNqgmxE5UTQjaqJoRNWhBm29hNigKAoJpc2Lri2DfTrwrV8yujU47a8kyo/Nv6orc0cRQRk74F9E1nwXryTRCY8ZsqiaGTVBNiJ17iaFA8/Ux2Wwzi0fqrjXsPo1J3ySWWuSSZk13YtdS/kPcqsvqnX605uUuNF0v7uc99oaj+ueSKb0wYmhV66KiaETb3E2KB5+nhNhxDypbsXk+xukUvqiVh8skHaEq/7mWfret6Tp7nN9+0LfETMdJySx1iSTM0/krrXk6o9Ig2R1O/KCbETb3E0KAoCqOTCxmjV/c2lzWlVmc6Nu++1TgL735NxHDGwdjzV2vz6vPX8/wCH0nJJuBkkzNR5R6w5Up3RINoVTviomhk69xNCgefqhbCTcRWNo1RM6t5XZQ98dXokkj0ySZnK+VQ0WMl+3JoXyTiN+mgl8J7li3Kpo/RYNoVYuiomhE29xNCgefqibEbcTXloYPeGmrFRw9yg9kmqeNtW55it8xr7aep2h4r89TILjDtrqPKWL9HYwmYZ+xk2qJsQbagmhm29fHuQNBXE0ImKruiNuMXywmMxA8sI24qZAROTG4L1yYnBE1MbYjcoNoRNVE0I2qiaETrrkkJRZ49zPVxtCI1RNCJyomhG1UTQiaqJoRuVE0ImqiaGbVBNDJqgmxG5UTQibcEkh6XJJmTz6megE0P01BNiNqgmxE5UTQjaqJoRNVE0I3KiaETVRNCNqomhk3//xAAkEAEAAQQDAQACAgMAAAAAAAABAgQFBgcAAyAXEBIRFhMUFf/aAAgBAQABAgBERERERERERET0iIiIiIiIiIiInlERERERERERERE8IiIiIiIiIiIiIiflERERERERERERERPwiIiIiIiIiIiIiIicRESXJLJkyZK8REREREREREnzv78fxl1o6ydYOrzV+QYcsps2bL+eIiIiJIqG5VevXzlsezvwTHjBXA/6F/Qs5wXiIiIkis5euzWr5ytrO/R/b4zvhxERESRWl8jrR85a3F0K+M85AREREkVcL3S652b9Z+s/WjbPXtHMs/uZoTznnOsREREkd3XX0NbaP+Oa++eR15TYGYrdjQnnOudYiIiIko9/XceamofO5qLQnnOOdYiIiIkip5fO3TPZ53jzQfnNudYiIiIkiqL/AA0j3ed1Q1nmf0/6X9LNjZnnPVFERERGNRC8Ulkvv3L7r91hvLp2/c+2qs87K2WNmprXTUsYIiIiInZCqpKmzzsLYWwwsdPbIUs6SVE0P+kUp1fqiInERGMoS6GmaZpmn/xfoxYsGLFiiIifhERGLFixYoiIiIiIiJ+URERERERERERERPCIiIiIiIiIiIiJ5RERERERERERET0iIiIiIiIiIiJ//8QARBAAAQIEAQYJBwkJAQAAAAAAAQACAwQFEQYSITFRVdETICIwQWFxdJIlJoGTsbPSEBQyRVJkcJSyFRZAVGJygoORwf/aAAgBAQADPwD8FQggggh/A2Qap+rw3RWPZCghxbluBOURpDQNWtRdot9Ud6i7RHqjvUXaTfVHeom0h6o71EH1i31R3qepUERjEZGg5QBc0FpaTouDfMdfyD5OpdRRPQeasCsk6UHYSpLgLZcs157X5zxmvw/UgdAlnkdoF0ACoVbnY7o7nfN4AGUGmxc92htxosM5WFwAP2ZANulwJPpN1hXppUt4TvWFNkyvhWFNkyvhUhJSDp2SY6GIZHCQ7ktySbXF9FtXM8koh3pV8F0M/cYXs43m9VOqTi/pRDSsuQq5+9w/dji+atW7pEVye3mOSVyvSvMmh9UjC9nGH7u1S/8AJxfYiGlXp1Y75D90OL5q1bukRae3mLtKJvmVPpFNbTamYkNkFzuAjNYXtyHG+S4NzjJ6DossC7XheF25YF2xC8LtywLtiF4XblgXbELwu3LBb/o1WGexjtyp0/TYklIF8ThbCJFLS1oZpIblZyTrXJK8nVnvsP3Q4vmrV+5xF7eYuEHg5kLnMnxIjWMY573GzWtBcSeoBYlcARSZsg/0D/0rE+yJzwjesUbInPCN6xK056VNj/Eb1XIMMufTploGk5F/ZdWa4LydWe+w/dDi3wtVu6RFp5kWKa0FQDKzk7kgxTG4JrukNaATbtJz8aBL1eBFhtDTMy7nPAzcqG4Nv2kFeTqz32H7ocW+GKr3V/NZiiA5ZeHZk/fn/pHG8oUvusf9bV5OrPfYfuhxb4aqndX81ySjZyY6gz0IHlMn3ZQ/uY0jjCJU6c0HOyVi5Q1ZTxb2KBhuozUOcD/mk0GlzmtLjDiMzB1hnIIzG2hYJcBauSQGoxLH0grBO3ZD1oWCtuyHrQsHHRWpI/7FTJ2QdJSEThuFI4SKAQwNBvZpOklZuZuCi4HMqzh2ffMSRaREAEWFEBLHgZxo0EdBVXaM9Elye8v+BVbYcv8AmX/AqrsOX/Mv+BVV31JL/mX/AAKqRW2FKl2O1mM5w/5khTlTmokzMuyoj7XsLAAaAB0ALK6E7rTutO605pGlZICsOZuEHA5k1xOZN+ym/ZTfspoP0UG9CAGhNPQm6k3Um6k0dCA5sFApupN1JupDUgPwF//EADERAQACAQIEAgcIAwAAAAAAAAEAAgMEEQUQEiExUQYVICIycZETQVJTcqKx0RRCgf/aAAgBAgEBPwAYMGDBgwYMH2BgwYMGDBgwYPMYMGDBgwYMGDB5DCafSZs1itKqw4Hrvy/3H9z1Hrvy/wBx/cy8J1mOja2PseLuP8QGFLeU6beXIYMGY+6TgeIrS1tu+wc85vhyfpf4nC9HS+bexuHfaGHEf6V+hPssf4K/Scb0+PHlq1qHUdwgwYMxPvE4NmoUar4zqPOdR5zVajFTDfex8L237zg/jb5c/SD4sfyZvBgyrtNJqLiBNJpLXxVve7377E/wqfit9Zl4Riv43vOH4HDlvRd9jx5+kL72P5M3gwYM4fs5Cac2w0/Sc65aGruL9wclD75x7PS+WpVHpO+3nN4MGDNNm6LDNPxtpQO09ffKZuO5NvdQ/wCQ19+tsqqw4pk85fiV08WXyNneDB5DBhdhdnUwYMGDBg8xgwYMGDBgwYPsDBgwYMGDBgz/xAA3EQEAAgECAwQEDAcAAAAAAAABAAIDBBEFEBIGITFTFFFxkRUiQVJhc5KhorHB0SAjJDIzYoH/2gAIAQMBAT8AGDBgwYMGDBg8xgwYMGDBgwYMHkMGDBgwYMGDBgwYMLTNrMWGvVewEOP6DzPwv7Q7QaDzPwv7TT8b0OXIUrlOpdgRN/fC5DLX1yuWvrlbQYMGWtsTjOZt01+nfnpnbPjf96/nOLcQyY9PYpZLOwJPTdV5+T7TPTtX5+X7bOy+szZtLYyXbNboL3u2xBgwZZ7pxTFZsIeE6L/NfdOi3zX3TSabNfNTalv7jd27icaXpr7efZJ/p8n1n6EGDBgzPiqm7NRqimRrWg7fKw11vLp98xcXy08MdPvnEc5mw47ht1fJz7KP8jJ9Z+hBgwYM1NviMzf5Le3nfHa2jxbHhv8AmzaVpa3gL7J2aw5MeCzeqdV9wfHbaDBgwZkr1Ey8OLW32hwk+mYeE49/jV3/AOsNJTpDbuCfB1PVMfD6D4TFQqbQYPIYMNobSu0GDBgwYPMYMGDBgwYMGD/AMGDBgwYMGDP/2Q==</data>
+      </dict>
+    </array>
+    <key>PayloadDescription</key>
+    <string>The best 3rd party app store made without coding. </string>
+    <key>PayloadDisplayName</key>
+    <string>NoCodeHub</string>
+    <key>PayloadIdentifier</key>
+    <string>Ibatech.ios.config.803b89ee-db91-42a5-b520-548964202996</string>
+    <key>PayloadOrganization</key>
+    <string>@Ibatech</string>
+    <key>PayloadRemovalDisallowed</key>
+    <false/>
+    <key>PayloadType</key>
+    <string>Configuration</string>
+    <key>PayloadUUID</key>
+    <string>803b89ee-db91-42a5-b520-548964202996</string>
+    <key>PayloadVersion</key>
+    <integer>1</integer>
+  </dict>
+</plist>
